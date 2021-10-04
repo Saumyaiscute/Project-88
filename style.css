@@ -1,0 +1,11 @@
+body{
+    text-align: center;
+    background-color: rgb(129, 194, 214);
+}
+
+input{
+    padding: 10px;
+}
+#sort{
+    display: none;
+}
